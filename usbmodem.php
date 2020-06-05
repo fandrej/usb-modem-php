@@ -44,7 +44,6 @@ ATZ команда восстанавливает конфигурацию. Ра
 
 AT+CFUN=1 Перезагрузить программное обеспечение = OK
 
-http://huawei.mobzon.ru/instruktsii/25-instruktsiya-po-nastrojke-modem
 Команды для модема Huawei E1750:
 AT^U2DIAG=0 (девайс в режиме только модем)
 AT^U2DIAG=1 (девайс в режиме модем + CD-ROM)
